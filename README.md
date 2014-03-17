@@ -7,5 +7,5 @@ current apps:
 
 attributions:
 
-http://thenounproject.com/term/coffee/19796/
-http://thenounproject.com/term/bow-tie/7311/
+- http://thenounproject.com/term/coffee/19796/
+- http://thenounproject.com/term/bow-tie/7311/
